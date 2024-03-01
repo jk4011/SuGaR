@@ -7,6 +7,11 @@ output*
 *.obj
 sugar_tests.ipynb
 sugar_sh_tests.ipynb
+datas
+tmp*
+.vscode
+sugar_viewer
+
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
